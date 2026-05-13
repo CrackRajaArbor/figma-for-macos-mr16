@@ -1,4 +1,4 @@
-# 
+# Enhance Figma for macOS with top Figma for macOS Script | content-aware fill + grid systems, the #1 script. Includes content-aware fill and grid systems for a smoother and more
 
 
 
